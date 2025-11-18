@@ -1,0 +1,2 @@
+Device: SmartKettle 500
+Fill with water below MAX line. Press START to boil. To keep warm, press HOLD. Hold START for 5 seconds to restore factory settings.
