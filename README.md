@@ -128,12 +128,6 @@ You should see:
 # 6️⃣ Start the backend (Flask API)
 python app.py
 
-if you have this error: ImportError: cannot import name 'CORS' from 'flask_cors'
-
-pip install flask-cors
-
-now is added into requirements and will be tested: flask-cors==4.0.0
-
 You should see:
 
 ## 🚀 RAG Chatbot API running on http://127.0.0.1:5000/chat
